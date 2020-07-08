@@ -7,7 +7,7 @@ date: 2018-04-02T15:00:00+02:00
 tags: ["reversing", "cisco", "security", "golang"]
 ---
 
-Cisco’s Sourcefire system is the IDS/IPS solution offered by this company after the acquisition of Sourcefire, including its network anomaly detection engine, Snort. This IPS solution is one of the more powerful systems available on the market.
+Cisco’s Sourcefire system is the IDS/IPS solution offered by this company after the acquisition of Sourcefire, including its network anomaly detection engine, Snort. This IPS solution is one of the most powerful systems available on the market.
 
 The system is composed mainly by two appliances:
 
@@ -59,5 +59,5 @@ According to Cisco, these versions are susceptible to apply this cracking techni
 * Firepower 7110, 7115 7120, 7125 AMP7150
 
 ## Links
-* [Cracking Cisco's Sourcefire licensing System paper](/files/cracking_sf_license_system.pdf)
+* [Cracking Cisco's Sourcefire licensing System paper](/assets/files/cracking_sf_license_system.pdf)
 * [Paper code](https://dev.hackercat.ninja/hcninja/sflicense)

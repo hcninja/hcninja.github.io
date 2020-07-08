@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html>
+<head data-suburl="">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+	
+		<meta name="author" content="Gogs" />
+		<meta name="description" content="Gogs is a painless self-hosted Git service" />
+		<meta name="keywords" content="go, git, self-hosted, gogs">
+	
+	<meta name="referrer" content="no-referrer" />
+	<meta name="_csrf" content="7bkq1YGob_-Vwv3JdsxXuePLrIE6MTU5NDIzNjAxMzkzODgyODc1MA" />
+	<meta name="_suburl" content="" />
+	
+	
+	
+		<meta property="og:url" content="https://dev.hackercat.ninja/" />
+		<meta property="og:type" content="website" />
+		<meta property="og:title" content="dev | HCN">
+		<meta property="og:description" content="Gogs is a painless self-hosted Git service.">
+		<meta property="og:image" content="https://dev.hackercat.ninja/img/gogs-lg.png" />
+		<meta property="og:site_name" content="Gogs">
+	
+
+	<link rel="shortcut icon" href="/img/favicon.png" />
+
+	<script src="/js/jquery-1.11.3.min.js"></script>
+	<script src="/js/libs/jquery.are-you-sure.js"></script>
+	<link rel="stylesheet" href="/assets/font-awesome-4.6.3/css/font-awesome.min.css">
+	<link rel="stylesheet" href="/assets/octicons-4.3.0/octicons.min.css">
+
+	
+	
+
+	
+
+	
+	<link rel="stylesheet" href="/css/semantic-2.3.1.min.css">
+	<link rel="stylesheet" href="/css/gogs.css?v=0b67f1414e0be5c3bab3905fe172c80e">
+	<noscript>
+		<style>
+			.dropdown:hover > .menu { display: block; }
+			.ui.secondary.menu .dropdown.item > .menu { margin-top: 0; }
+		 </style>
+	</noscript>
+
+	
+	<script src="/js/semantic-2.3.1.min.js"></script>
+	<script src="/js/gogs.js?v=0b67f1414e0be5c3bab3905fe172c80e"></script>
+
+	<title>Page Not Found - dev | HCN</title>
+
+	<meta name="theme-color" content="#ff5343">
+
+	
+</head>
+<body>
+	<div class="full height">
+		<noscript>This website works better with JavaScript</noscript>
+
+		
+			<div class="following bar light">
+				<div class="ui container">
+					<div class="ui grid">
+						<div class="column">
+							<div class="ui top secondary menu">
+								<a class="item brand" href="/">
+									<img class="ui mini image" src="/img/favicon.png">
+								</a>
+
+								
+									<a class="item" href="/">Home</a>
+								
+
+								<a class="item" href="/explore/repos">Explore</a>
+								
+
+								
+
+									<a class="item" target="_blank" rel="noopener noreferrer" href="https://gogs.io/docs" rel="noreferrer">Help</a>
+									<div class="right menu">
+										
+										<a class="item" href="/user/login?redirect_to=%2fhcninja%2fhcn_blog%2fraw%2fmaster%2fstatic%2fimg%2favatar.jpg">
+											<i class="octicon octicon-sign-in"></i> Sign In
+										</a>
+									</div>
+
+								
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		
+
+		
+
+
+<div class="ui container center">
+	<p style="margin-top: 100px"><img src="/img/404.png" alt="404"/></p>
+	<div class="ui divider"></div>
+	<br>
+	<p>Application Version: 0.11.97.1209</p>
+	<p>If you think this is an error, please open an issue on <a href="https://github.com/gogits/gogs/issues/new">GitHub</a>.</p>
+</div>
+
+	</div>
+	<footer>
+		<div class="ui container">
+			<div class="ui left">
+				© 2020 Gogs Version: 0.11.97.1209 Page: <strong>6ms</strong> Template: <strong>0ms</strong>
+			</div>
+			<div class="ui right links">
+				
+				<div class="ui language bottom floating slide up dropdown link item">
+					<i class="world icon"></i>
+					<div class="text">English</div>
+					<div class="menu">
+						
+							<a class="item active selected" href="#">English</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=zh-CN">简体中文</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=zh-HK">繁體中文（香港）</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=zh-TW">繁體中文（臺灣）</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=de-DE">Deutsch</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=fr-FR">français</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=nl-NL">Nederlands</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=lv-LV">latviešu</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=ru-RU">русский</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=ja-JP">日本語</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=es-ES">español</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=pt-BR">português do Brasil</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=pl-PL">polski</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=bg-BG">български</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=it-IT">italiano</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=fi-FI">suomi</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=tr-TR">Türkçe</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=cs-CZ">čeština</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=sr-SP">српски</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=sv-SE">svenska</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=ko-KR">한국어</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=gl-ES">galego</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=uk-UA">українська</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=en-GB">English (United Kingdom)</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=hu-HU">Magyar</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=sk-SK">Slovenčina</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=id-ID">Indonesian</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=fa-IR">Persian</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=vi-VN">Vietnamese</a>
+						
+							<a class="item " href="/hcninja/hcn_blog/raw/master/static/img/avatar.jpg?lang=pt-PT">Português</a>
+						
+					</div>
+				</div>
+				<a href="/assets/librejs/librejs.html" style="display:none" data-jslicense="1">Javascript Licenses</a>
+				<a target="_blank" rel="noopener noreferrer" href="https://gogs.io">Website</a>
+				<span class="version">Go1.13.5</span>
+			</div>
+		</div>
+	</footer>
+</body>
+
+
+
+
+
+
+
+<script src="/js/libs/emojify-1.1.0.min.js"></script>
+<script src="/js/libs/clipboard-1.5.9.min.js"></script>
+
+
+</html>
+
