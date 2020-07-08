@@ -59,5 +59,5 @@ According to Cisco, these versions are susceptible to apply this cracking techni
 * Firepower 7110, 7115 7120, 7125 AMP7150
 
 ## Links
-* [Cracking Cisco's Sourcefire licensing System paper](/files/cracking_sf_license_system.pdf)
+* [Cracking Cisco's Sourcefire licensing System paper](/assets/files/cracking_sf_license_system.pdf)
 * [Paper code](https://github.com/hcninja/sflicense)
