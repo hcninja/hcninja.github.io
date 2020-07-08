@@ -60,4 +60,4 @@ According to Cisco, these versions are susceptible to apply this cracking techni
 
 ## Links
 * [Cracking Cisco's Sourcefire licensing System paper](/assets/files/cracking_sf_license_system.pdf)
-* [Paper code](https://dev.hackercat.ninja/hcninja/sflicense)
+* [Paper code](https://github.com/hcninja/sflicense)
