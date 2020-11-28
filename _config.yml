@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
-title: Hacker Cat Ninja
+title: HackerCat Ninja
 description: > # this means to ignore newlines until "baseurl:"
-    &emsp;Coding & Security<br><br><img src="/assets/img/avatar.png" alt="avatar" width="150" height="150"><br>
+    &emsp;&emsp;Coding & Security<br><br>&emsp;<img src="/assets/img/avatar.png" alt="avatar" width="150" height="150"><br>
 baseurl: ""
 url: "https://blog.hackercat.ninja"
 # logo: /assets/img/avatar.png
